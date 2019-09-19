@@ -52,7 +52,7 @@ public class PollDisplayPanel extends JPanel {
 
             name2 +","+","+ count2 +
 
-            name3 + count3;
+            name3 +","+","+ count3;
   }
 
   // Redefines JPanel's paintComponent to draw this pie chart
