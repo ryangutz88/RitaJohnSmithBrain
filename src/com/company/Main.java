@@ -20,6 +20,7 @@ public class Main {
 
 
         // (int)(Math.random() *a +b)  // a numbers starting at b
+        int x = 0;
         System.out.println(x);
 
     }

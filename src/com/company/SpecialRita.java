@@ -19,5 +19,6 @@ public class SpecialRita {
         double x = 3.5;
         double y =8.2;
         double z = x+y;
+        return x;
     }
 }
